@@ -1,0 +1,32 @@
+%PDF-1.4
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >> endobj
+4 0 obj << /Length 578 >> stream
+BT
+/F1 16 Tf
+1 0 0 1 54 740 Tm (CERTIFICATE OF LIABILITY INSURANCE) Tj
+/F1 12 Tf
+1 0 0 1 54 704 Tm (Certificate holder: Harbor General Contractors) Tj
+1 0 0 1 54 682 Tm (Insured: Northline Electrical LLC) Tj
+1 0 0 1 54 660 Tm (Issuer: Pinnacle Mutual Insurance) Tj
+1 0 0 1 54 638 Tm (Policy number: PM-COI-204418) Tj
+1 0 0 1 54 616 Tm (Issue date: 2026-02-01) Tj
+1 0 0 1 54 594 Tm (Expiration date: 2027-06-30) Tj
+1 0 0 1 54 572 Tm (Coverage: Commercial general liability) Tj
+1 0 0 1 54 550 Tm (This document is a fictional Certkeep sample. It is not an insurance policy.) Tj
+ET
+endstream endobj
+5 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000870 00000 n 
+trailer << /Size 6 /Root 1 0 R >>
+startxref
+940
+%%EOF
